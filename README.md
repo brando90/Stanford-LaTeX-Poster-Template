@@ -11,6 +11,8 @@ There are four color demos under `demos`: Palo Alto Green, Cardinal Red, White a
 
 # Tips
 
+## Fontspec & xelatex error
+
 If you get the `fontspec` error:
 ```
 (fontspec)                      LuaTeX.
